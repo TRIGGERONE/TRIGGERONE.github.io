@@ -19,4 +19,4 @@ Curriculum vitae of Haotian Lu can be found here: [CV_Haotian_LU](../assets/CV.p
 
 *Coming Soon......*
 
-[Sep. 2024] Our work *The Unlikely Hero: Nonidealities in Analog Photonic Neural Networks as Built-in Adversarial Defenders* is accepted by ACM/IEEE ASPDAC 2025!
+[Sep. 2024] Our work *The Unlikely Hero: Nonidealities in Analog Photonic Neural Networks as Built-in Adversarial Defenders* is accepted by ACM/IEEE ASPDAC 2025! [[preprint]](https://arxiv.org/abs/2410.01289), [[Codes]](https://github.com/ScopeX-ASU/Unlikely_Hero)
