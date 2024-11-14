@@ -15,9 +15,8 @@ Haotian Lu got his B.E. degree in Integrated Circuit Design and Integrated Syste
 
 Curriculum vitae of Haotian Lu can be found here: [CV_Haotian_LU](../assets/CV.pdf)
 
-
 # News
 
 *Coming Soon......*
 
-[Sep. 2024] Our work [The Unlikely Hero: Nonidealities in Analog Photonic Neural Networks as Built-in Adversarial Defenders](https://arxiv.org/abs/2410.01289) is accepted by ACM/IEEE ASPDAC 2025!
+[Sep. 2024] Our work *The Unlikely Hero: Nonidealities in Analog Photonic Neural Networks as Built-in Adversarial Defenders* is accepted by ACM/IEEE ASPDAC 2025!
