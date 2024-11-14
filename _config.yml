@@ -24,9 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Haotian Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Haotian Lu is currently a Ph.D. student in Department of ECE, UC Riverside. 
+                  Previously He got his B.E. degree in Integrated Circuit Design and Integrated System from Tianjin University, 2023.
+                  From 2023 to 2024, he has fortune to join ScopeX groupwork with Prof. Jiaqi Gu"
   location         : # "Earth"
-  employer         : University of California, Riverside
+  employer         : "University of California, Riverside"
   uri              : "TRIGGERONE.github.io"
   email            : "hlu123@ucr.edu" 
 
@@ -36,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-8919-5367"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
