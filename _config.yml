@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,11 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Haotian Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Haotian Lu is currently a Ph.D. student in Department of ECE, UC Riverside. 
-                  Previously He got his B.E. degree in Integrated Circuit Design and Integrated System from Tianjin University, 2023.
-                  From 2023 to 2024, he has fortune to join ScopeX groupwork with Prof. Jiaqi Gu"
-  location         : # "Earth"
-  employer         : "University of California, Riverside"
+  bio              : "Ph.D. student in Department of ECE, UC Riverside"
+  # location         : # "Earth"
+  employer         : "UC, Riverside"
   uri              : "TRIGGERONE.github.io"
   email            : "hlu123@ucr.edu" 
 
@@ -51,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/haotian-lu-37429b325/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
