@@ -20,3 +20,9 @@ Curriculum vitae of Haotian Lu can be found here: [CV_Haotian_LU](../assets/CV.p
 *Coming Soon......*
 
 [Sep. 2024] Our work *The Unlikely Hero: Nonidealities in Analog Photonic Neural Networks as Built-in Adversarial Defenders* is accepted by ACM/IEEE ASPDAC 2025! [[preprint]](https://arxiv.org/abs/2410.01289), [[Codes]](https://github.com/ScopeX-ASU/Unlikely_Hero)
+
+[Jun. 2024] Our work *DOCTOR: Dynamic On-Chip Temporal Variation Remediation Toward Self-Corrected Photonic Tensor Accelerators* is published on IEEE Journal of Lightwave technology (JLT)! [[paper]](https://ieeexplore.ieee.org/abstract/document/10547367), [[Codes]](https://github.com/ScopeX-ASU/DOCTOR)
+
+[Aug. 2023] Our work *Investigating on sensing mechanism of MoS2-FET biosensors in response to proteins* is published on Nanotechnology! [[paper]](https://iopscience.iop.org/article/10.1088/1361-6528/aceb6a/meta)
+
+[Apr. 2023] Our work *Energy-efficient NTT Design with One-bank SRAM and 2-D PE Array* is published on IEEE DATE 2023! [[paper]](https://ieeexplore.ieee.org/abstract/document/10137059/metrics#metrics)
