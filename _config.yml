@@ -21,11 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/_portfolio/Profile.jpeg"
+  avatar           : "Profile.jpeg"
   name             : "Haotian Lu"
-  pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Department of ECE, UC Riverside"
-  # location         : # "Earth"
   employer         : "UC, Riverside"
   uri              : "TRIGGERONE.github.io"
   email            : "hlu123@ucr.edu" 
@@ -33,11 +31,10 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=hLy0GAEAAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-8919-5367"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Haotian-Lu-11"
   scopus           : # URL
 
   # Repositories and software development
