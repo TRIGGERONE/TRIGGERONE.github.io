@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Haotian Lu is a Ph.D. student in Department of ECE, Universcity of California at Riverside. 
+Haotian Lu is a First-year Ph.D. student in Department of ECE, Universcity of California at Riverside. 
 His research interests include Design Automation, Computer-aided Design. 
 He is currently focusing on Machine Learning-enabled VLSI Reliability Analysis.
 
